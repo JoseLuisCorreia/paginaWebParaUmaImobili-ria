@@ -1,8 +1,15 @@
 .btn-efeito{
     color: white;
     background-color: #2B67FF;
+    border-radius: 20px;
+    margin-left: 15pt;
+}
+
+.btn-efeito1{
 
     border-radius: 20px;
+    border-color: rgb(146, 144, 144);
+    margin-left: 20pt;
 
 }
 
@@ -17,8 +24,10 @@
     color: rgb(167, 166, 166);
 }
 
+
+
 .bora{
-    margin-top: 50pt;
+    margin-top: 70pt;
     margin-left: 50pt;
     font-weight: bold;
     font-size: 50px;
@@ -27,11 +36,11 @@
 
 
 .imagem{
-    margin-top: 30pt;
+    margin-top: 60pt;
 }
 
 .vamos{
-    margin-top: 150pt;
+    margin-top: 140pt;
     margin-left: 80pt;
     margin-bottom: 50pt;
 }
@@ -39,11 +48,21 @@
 .corFonte{
     color: #2B67FF;
     font-weight: bold;
+    font-size: 50px;
+}
+
+
+.corFonte1{
+    color: #2B67FF;
+    font-weight: bold;
     font-size: 40px;
 }
 
+
 .fonte1{
+    padding-left: 10pt;
     font-weight: bold;
+  
 }
 
 #foto-usuario{
@@ -70,8 +89,153 @@
 }
 
 .espacamento{
-    margin-top: 100pt;
+    margin-top: 60pt;
     margin-left: 80pt;
+}
+
+.espacamento1{
+    margin-top: 10pt;
+}
+
+.espacamento3{
+    font-weight: bold;
+    margin-left: 30pt;
+}
+
+.icones1{
+    font-size: 60px;
+    padding-left: 8pt;
+}
+
+.espacamentoGarantia{
+    padding-left: 10pt;
+}
+
+.espacamentoF{
+    padding-left: 25pt;
+}
+
+.espacamentoG{
+    padding-left: 30pt;
+}
+
+.espacamentoicon{
+    padding-left: 10pt;
+}
+
+.fonte{
+    padding-left: 10pt;
+    font-weight: bold;
+    font-size: 14px;
+}
+.icones2{
+    font-size: 30px;
+    color: #2B67FF;
+    
+
+}
+
+.todosicons1{
+    align-content: center;  
+    justify-content: center;
+}
+
+.cor1{
+        
+    color: hsl(0, 80%, 0%) ;
+    
+}
+
+.setas{
+    color: #2B67FF;
+    font-size: 20px;
+
+}
+
+.tamanho{
+    font-size: 30px;
+}
+.tamanho1{
+    font-size: 20px;
+}
+
+.traco{
+    font-weight: bold;
+    font-size: 70px;
+    color: #ECEEF2;
+    
+}
+
+.entrelinhas{
+    line-height: 90%;
+
+}
+
+.entrelinhas1{
+    line-height: 200%;
+
+}
+
+.ajustecol{
+    padding-right: 120pt;
    
 }
+
+.ajustecol1{
+
+    padding-top: 80pt;
+    position: relative;
+}
+
+.ajustecol2{
+
+    padding-left: 80pt;
+
+}
+
+.br-32 {
+    border-radius: 32px;
+}
+
+.ic-menu{
+    border-radius: 15px 15px;
+    background-color: rgba(66, 209, 154, 0.082)!important;    
+}
+
+.mar1{
+    margin: 5px 0px 70px 0px;
+}
+
+.fundo3{
+    background-color: rgba(66, 209, 154, 0.082)!important; 
+}
+
+.espaco{
+    padding-top: 40pt;
+}
+
+.mulher{
+    background-image: url(https://i.imgur.com/Iu5ViRh.png) ; background-color: aquamarine;
+    background-repeat: no-repeat;
+    
+}
+
+.espacamento10{
+    margin-left: 80pt;
+    padding-top: 30pt;
+  
+}
+
+.cardes{
+    padding-top: 5pt;
+    width: 200px;
+    text-align: center;
+}
+
+
+
+
+
+
+
 
