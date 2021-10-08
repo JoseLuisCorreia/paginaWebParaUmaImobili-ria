@@ -1,0 +1,77 @@
+.btn-efeito{
+    color: white;
+    background-color: #2B67FF;
+
+    border-radius: 20px;
+
+}
+
+.cordefundo{
+    background: #ECEEF2;
+    
+}
+
+.cordefundo1{
+    background-color: #F5F9FF;
+    border-radius: 20px;
+    color: rgb(167, 166, 166);
+}
+
+.bora{
+    margin-top: 50pt;
+    margin-left: 50pt;
+    font-weight: bold;
+    font-size: 50px;
+    
+}
+
+
+.imagem{
+    margin-top: 30pt;
+}
+
+.vamos{
+    margin-top: 150pt;
+    margin-left: 80pt;
+    margin-bottom: 50pt;
+}
+
+.corFonte{
+    color: #2B67FF;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.fonte1{
+    font-weight: bold;
+}
+
+#foto-usuario{
+    width: 100px;
+    height: 100px;
+    transform: translatey(25%);
+    border: 4px solid rgba(255, 255, 255, 0.459);
+}
+
+.bot1{
+    margin-right: 20pt;
+    list-style: none;
+}
+
+.bot2{
+
+    margin-right: 20pt;
+    margin-left: 50pt;
+}
+
+.bot3{
+    padding: 5pt 20pt;
+    
+}
+
+.espacamento{
+    margin-top: 100pt;
+    margin-left: 80pt;
+   
+}
+
