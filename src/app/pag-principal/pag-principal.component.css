@@ -41,7 +41,7 @@
 
 .vamos{
     margin-top: 140pt;
-    margin-left: 80pt;
+    margin-left: 60pt;
     margin-bottom: 50pt;
 }
 
@@ -97,9 +97,15 @@
     margin-top: 10pt;
 }
 
+.espacamento2{
+    margin-left: 10pt;
+}
+
+
+
 .espacamento3{
     font-weight: bold;
-    margin-left: 30pt;
+    margin-left: 50pt;
 }
 
 .icones1{
@@ -112,15 +118,15 @@
 }
 
 .espacamentoF{
-    padding-left: 25pt;
+    padding-left: 15pt;
 }
 
 .espacamentoG{
-    padding-left: 30pt;
+    padding-left: 10pt;
 }
 
 .espacamentoicon{
-    padding-left: 10pt;
+    padding-left: 14pt;
 }
 
 .fonte{
@@ -211,29 +217,74 @@
 }
 
 .espaco{
-    padding-top: 40pt;
+    padding-top: 30pt;
 }
 
 .mulher{
-    background-image: url(https://i.imgur.com/Iu5ViRh.png) ; background-color: aquamarine;
+    background-image: url(https://i.imgur.com/Iu5ViRh.png) ; background-color: rgba(66, 209, 154, 0.082);
+    background-repeat: no-repeat;
+    
+}
+
+.pessoas{
+    background-image: url(https://i.imgur.com/oZJ8WqG.png) ; background-color: rgba(66, 209, 154, 0.082);
     background-repeat: no-repeat;
     
 }
 
 .espacamento10{
     margin-left: 80pt;
-    padding-top: 30pt;
+    padding: 50pt;
   
 }
 
 .cardes{
-    padding-top: 5pt;
     width: 200px;
     text-align: center;
 }
 
+.espacoesquerdo{
+    margin-left: 80pt;
+    
+}
+
+.espacodireitotexto{
+    padding-right: 140pt;
+    
+}
 
 
+.alinhamentotexto{
+    text-align: justify;
+    
+}
+
+.centertexto{
+    text-align: center;
+}
+
+.pag4{
+    padding-top: 40pt;
+}
+
+.textolist{
+    font-size: 14px;
+    color: #6d6c6c;
+}
+
+
+.borda{
+    margin: 18px;
+}
+
+.botao{
+    margin-bottom: 10pt;
+    border-radius: 15px;
+}
+
+.botao1{
+    margin-left: 95pt;
+}
 
 
 
