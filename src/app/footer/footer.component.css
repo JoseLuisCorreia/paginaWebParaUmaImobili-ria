@@ -1,0 +1,36 @@
+.borda1{
+    border: rgb(8, 8, 7);
+    border-color: black;
+}
+
+.margem{
+    padding-left: 80pt;
+    padding-right: 90pt;
+}
+
+.fonte{
+    font-weight: bold;
+}
+
+.corfonte{
+    color: #9e9fa0;
+}
+
+.corfonte2{
+    color: #cacbce;
+}
+
+.center{
+    text-align: center;
+}
+
+.coricon{
+        
+    color: hsl(0, 80%, 0%) ;
+    font-size: 25px;
+    
+}
+
+.corFundo{
+    background-color: rgba(66, 209, 154, 0.082)!important; 
+}

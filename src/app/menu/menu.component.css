@@ -1,8 +1,21 @@
-.btn-efeito{
-    color: white;
-    background-color: #2B67FF;
-
-    border-radius: 20px;
-
+.btn-efeito {
+  color: white;
+  background-color: #2B67FF;
+  border-radius: 20px;
 }
 
+.espacamento1 {
+  margin-right: 40pt;
+}
+
+.espacamento2 {
+  margin-right: 15pt;
+}
+
+.espacamento3 {
+  margin-left: 60pt;
+}
+
+.fundoDrop {
+  background-color: #ECEEF2;
+}
