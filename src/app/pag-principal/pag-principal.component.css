@@ -76,7 +76,7 @@
 
 .espacamento {
   margin-top: 60pt;
-  margin-left: 80pt;
+  margin-left: 20%;
 }
 
 .espacamento1 {
@@ -93,7 +93,7 @@
 }
 
 .espacamento4 {
-  margin-left: 80pt;
+  margin-left: 20%;
 }
 
 .icones1 {
@@ -110,7 +110,7 @@
 }
 
 .espacamentoicon {
-  padding-left: 14pt;
+  padding-left: 5%;
 }
 
 .fonte {
@@ -133,8 +133,12 @@
   font-size: 20px;
 }
 
+.acordion1{
+  padding-left: 5%;
+}
+
 .tamanhoFont {
-  font-size: 30px;
+  font-size: 0.5rem;
 }
 
 .tamanho1 {
@@ -220,10 +224,12 @@
 }
 
 .espacamentoCardes {
-  margin-left: 80pt;
-  padding: 50pt;
+  
+  padding: 10%;
 
 }
+
+
 
 .cardes {
   width: 200px;
@@ -236,8 +242,8 @@
 
 }
 
-.espacodireitotexto {
-  padding-right: 140pt;
+.espacoDireito {
+  padding-right: 5%;
 
 }
 
@@ -280,11 +286,7 @@
   z-index: 9999;
 }
 
-#posicaoImagem {
-  position: absolute;
-  margin-top: 150px;
-  z-index: 9999;
-}
+
 
 .margcard {
   margin: 40px;
